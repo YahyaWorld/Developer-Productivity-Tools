@@ -1,6 +1,6 @@
 # first heading
 
-## h3
+### h3
 
 ###### last heading(h6)
 
