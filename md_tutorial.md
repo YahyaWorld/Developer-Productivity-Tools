@@ -4,6 +4,7 @@
 
 ###### last heading(h6)
 
+---
 
 this is the simple text without any modification as you see the last (h6) heading is smaller than this simple text
 
