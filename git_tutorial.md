@@ -16,6 +16,7 @@
 * git push origin main
 * git push origin main --force
 * git pull origin main
+* git pull
 ---
 ## branch
 * git branch -M main :set default branch name as main
